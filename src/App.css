@@ -17,7 +17,8 @@ body::-webkit-scrollbar {
 .red {
   position: absolute;
   top: 20px;
-  
+  left: 0;
+  right: 0;
 }
 
 .header {
